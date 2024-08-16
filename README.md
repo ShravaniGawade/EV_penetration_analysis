@@ -26,3 +26,5 @@ Matplotlib & Seaborn: For creating graphs and visualizations.
 
 Conclusion:
 This project provides a comprehensive analysis of the electric vehicles market, offering insights into registration trends, model popularity, and electric range advancements. The future growth prediction highlights the potential expansion of the EV market in the coming years.
+
+Credit: This project was inspired by Aman Kharwal
